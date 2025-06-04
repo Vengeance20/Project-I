@@ -4,7 +4,7 @@ Members: Bui Cong Minh, Tran Hoang Thai
 Supervisor: Tong Van Van
 
 ## Watermark removal using LLMs
-Check out our work
+Check out our work\n
 Removing watermarks: **[Google Colab](https://colab.research.google.com/drive/1O0ELetnGKWsIZrSZFcD2huVQBWjW3BTY#scrollTo=B_pe-hG6SW6H)**.
 ## Notebook structure
 1. Set up: Contains cells for importing and installing libraries, choosing models, configuring devices, and initializing
