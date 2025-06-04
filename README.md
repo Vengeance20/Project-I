@@ -4,7 +4,8 @@ Members: Bui Cong Minh, Tran Hoang Thai
 Supervisor: Tong Van Van
 
 ## Watermark removal using LLMs
-
+Check out our work
+Removing: **[Google Colab]([https://watermark-stealing.org](https://colab.research.google.com/drive/1O0ELetnGKWsIZrSZFcD2huVQBWjW3BTY#scrollTo=B_pe-hG6SW6H))**.
 ## Notebook structure
 1. Set up: Contains cells for importing and installing libraries, choosing models, configuring devices, and initializing
 2. Removing watermark by using LLMs to paraphrase the texts: Contains functions to generate watermarked texts, paraphrasing texts via LLMs API and calculating mean scores of the paraphrased text
